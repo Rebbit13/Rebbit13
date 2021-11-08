@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rebbit13 russian beginer developer
+- 👋 Hi, I’m @Rebbit13 russian python backend developer
 - 👀 I’m interested in wed development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Go
 - 📫 You can reach me by telegram @Rebbit13
 
 <!---
